@@ -9,6 +9,6 @@ public:
                 }
             }
         }
-        return {};
+        return {}; // if no pair is found safety return
     }
 };
