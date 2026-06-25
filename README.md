@@ -43,6 +43,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
@@ -61,4 +62,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
