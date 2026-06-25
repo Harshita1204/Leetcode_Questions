@@ -37,5 +37,14 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
