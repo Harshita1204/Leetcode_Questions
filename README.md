@@ -72,4 +72,12 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
