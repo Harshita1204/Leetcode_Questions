@@ -77,9 +77,18 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0326-power-of-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
