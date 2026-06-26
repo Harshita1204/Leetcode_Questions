@@ -29,6 +29,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -91,4 +92,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
