@@ -29,6 +29,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
