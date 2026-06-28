@@ -25,6 +25,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -44,6 +45,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
@@ -55,6 +57,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0283-move-zeroes) |
@@ -73,6 +76,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -125,4 +129,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
