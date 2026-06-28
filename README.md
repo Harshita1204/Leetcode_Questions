@@ -25,6 +25,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -35,6 +36,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -42,6 +44,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 ## Array
@@ -52,6 +55,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
@@ -81,6 +85,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +94,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
