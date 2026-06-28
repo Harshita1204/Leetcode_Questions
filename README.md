@@ -53,6 +53,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
