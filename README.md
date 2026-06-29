@@ -30,6 +30,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 ## Bit Manipulation
 |  |
 | ------- |
