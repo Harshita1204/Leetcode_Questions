@@ -27,6 +27,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
@@ -34,6 +35,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -133,4 +135,9 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
