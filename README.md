@@ -37,6 +37,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0344-reverse-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0520-detect-capital) |
 ## Bit Manipulation
 |  |
 | ------- |
