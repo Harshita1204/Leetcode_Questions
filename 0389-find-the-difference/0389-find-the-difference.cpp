@@ -7,7 +7,7 @@ public:
         }
         for(char ch:t){
             f[ch-'a']--;
-            if(f[ch-'a']<0){
+            if(f[ch-'a']<0){ // if character is negative that character is extra
                 return ch;
             }
         }
