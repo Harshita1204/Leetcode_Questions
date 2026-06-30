@@ -143,4 +143,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
