@@ -49,6 +49,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -60,6 +61,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
