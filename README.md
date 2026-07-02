@@ -70,6 +70,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0283-move-zeroes](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -119,6 +120,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0062-unique-paths) |
+| [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -149,4 +151,5 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
