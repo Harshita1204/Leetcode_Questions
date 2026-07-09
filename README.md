@@ -61,6 +61,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
