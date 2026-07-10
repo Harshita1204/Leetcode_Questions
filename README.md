@@ -56,6 +56,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0485-max-consecutive-ones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -87,10 +89,12 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -155,4 +159,20 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0039-combination-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
