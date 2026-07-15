@@ -181,10 +181,12 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,4 +195,5 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
