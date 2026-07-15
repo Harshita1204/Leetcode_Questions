@@ -25,6 +25,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -60,6 +61,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0039-combination-sum) |
