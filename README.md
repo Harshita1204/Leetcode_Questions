@@ -177,4 +177,20 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
