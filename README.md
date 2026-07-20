@@ -184,20 +184,24 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
