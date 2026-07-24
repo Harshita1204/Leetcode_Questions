@@ -69,6 +69,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -192,11 +194,13 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,4 +208,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
