@@ -1,16 +1,17 @@
 class Solution {
 public:
-    int fib(int n) {
-        if(n == 0)
+    int solve(int n, vector<int>& dp) {
+        if (n == 0)
             return 0;
-        if(n == 1)
+        if (n == 1)
             return 1;
-        vector<int> arr(n + 1);
-        arr[0] = 0;
-        arr[1] = 1;
-        for(int i = 2; i <= n; i++){
-            arr[i] = arr[i-1] + arr[i-2];
-        }
-        return arr[n];
+        if (dp[n] != -1)
+            return dp[n];
+        dp[n] = solve(n - 1, dp) + solve(n - 2, dp);
+        return dp[n];
+    }
+    int fib(int n) {
+        vector<int>dp(n+1,-1);
+        return solve(n,dp);
     }
 };
