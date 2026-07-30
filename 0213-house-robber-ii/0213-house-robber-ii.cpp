@@ -17,6 +17,8 @@ public:
         if (n == 1) {
             return nums[0]; // there is only one house
         }
-        return max(robitdude(nums,0,n-2),robitdude(nums,1,n-1));
+        return max(robitdude(nums,0,n-2), // miss the last house
+                 robitdude(nums,1,n-1) // miss the first too
+        ); 
     }
 };
