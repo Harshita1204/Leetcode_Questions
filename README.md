@@ -32,6 +32,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
+| [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -214,4 +216,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
