@@ -1,10 +1,10 @@
 class Solution {
 public:
     int findJudge(int n, vector<vector<int>>& trust) {
-        vector<int> indegree(n+1,0);
-        vector<int> outdegree(n+1,0);
+        vector<int>indegree(n+1,0);
+        vector<int>outdegree(n+1,0);
 
-        for(auto& relation : trust){
+        for(auto& relation :trust){
             indegree[relation[1]]++;
             outdegree[relation[0]]++;
         }
@@ -13,7 +13,7 @@ public:
                 return i;
             }
         }
-            return -1;
+        return -1;
 
     }
 };
