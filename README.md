@@ -85,6 +85,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +159,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0560-subarray-sum-equals-k](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Counting
 |  |
 | ------- |
