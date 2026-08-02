@@ -80,6 +80,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0485-max-consecutive-ones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
@@ -155,6 +156,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
