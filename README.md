@@ -31,6 +31,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
 ## String
@@ -78,6 +79,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
@@ -152,6 +154,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
