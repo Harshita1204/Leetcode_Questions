@@ -65,6 +65,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 | ------- |
 | [0001-two-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0039-combination-sum) |
@@ -90,6 +91,7 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0283-move-zeroes) |
@@ -230,4 +232,8 @@ I am using this repo to practice **Data Structures & Algorithms (DSA)** and impr
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0997-find-the-town-judge) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Harshita1204/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
