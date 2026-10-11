@@ -2,6 +2,7 @@ class Solution {
 public:
     int countWords(vector<string>& words1, vector<string>& words2) {
         int s1 = words1.size();
+        
         int s2 = words2.size();
         int Actualcount = 0;
         for (int i = 0; i < s1; i++) {
