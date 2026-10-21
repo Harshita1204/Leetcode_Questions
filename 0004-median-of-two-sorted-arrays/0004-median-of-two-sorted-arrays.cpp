@@ -10,9 +10,12 @@ public:
         for(int i=0;i<n1;i++){
             merged.push_back(nums1[i]);
         }
+
+
         for(int i=0;i<n2;i++){
             merged.push_back(nums2[i]);
         }
+
         sort(merged.begin(),merged.end());
 
        int n = merged.size();
@@ -23,5 +26,6 @@ public:
             return (merged[n/2 - 1] + merged[n/2])/ 2.0;
         }
        //return merged;
+       // no need
     }
 };
