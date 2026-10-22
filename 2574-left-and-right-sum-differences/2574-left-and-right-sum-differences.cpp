@@ -12,7 +12,7 @@ public:
             for(int j =i+1;j<n;j++){
                 right += nums[j];
             }
-            ans.push_back(abs(left-right));
+            ans.push_back(abs(left-right)); // abs bcz it converts negative to positive , 0 as it is 
         }
         return ans;
     }
